@@ -6,7 +6,7 @@ A simple script to compile SASS to CSS automatically with pure PHP using the [sc
 How to install
 -----------------
 
-You can download the repository files and installs the dependencies with the composer:
+You can download the repository files and installs the dependencies with the [composer](https://getcomposer.org/):
 
 ```bash
 $ composer install
